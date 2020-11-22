@@ -1,8 +1,11 @@
-pp -jhksaggkl klvm vj er
+pp -jhksaggkl klvm vj er!!
 sdsdf
 dss---
 change 1: correct bug
 change 2: test push normal to remote master
 change 3: teammate change for CR1 to check
-change 4: teeammate change for CR2 om remote master 
+
+change 4: teeammate change for CR2 om remote master and bug 3 on local master
+
+
 
